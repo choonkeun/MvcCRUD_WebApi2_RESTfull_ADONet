@@ -1,0 +1,8 @@
+D:\TEST\MvcCRUD_WebApi2_RESTfull_ADONet\MvcCRUD_RESTFull_Client\bin\MvcCRUD_RESTFull_Client.dll.config
+D:\TEST\MvcCRUD_WebApi2_RESTfull_ADONet\MvcCRUD_RESTFull_Client\bin\MvcCRUD_RESTFull_Client.dll
+D:\TEST\MvcCRUD_WebApi2_RESTfull_ADONet\MvcCRUD_RESTFull_Client\bin\MvcCRUD_RESTFull_Client.pdb
+D:\TEST\MvcCRUD_WebApi2_RESTfull_ADONet\MvcCRUD_RESTFull_Client\bin\Microsoft.Web.Infrastructure.dll
+D:\TEST\MvcCRUD_WebApi2_RESTfull_ADONet\MvcCRUD_RESTFull_Client\bin\Newtonsoft.Json.dll
+D:\TEST\MvcCRUD_WebApi2_RESTfull_ADONet\MvcCRUD_RESTFull_Client\bin\Microsoft.Web.Infrastructure.xml
+D:\TEST\MvcCRUD_WebApi2_RESTfull_ADONet\MvcCRUD_RESTFull_Client\obj\Debug\MvcCRUD_RESTFull_Client.dll
+D:\TEST\MvcCRUD_WebApi2_RESTfull_ADONet\MvcCRUD_RESTFull_Client\obj\Debug\MvcCRUD_RESTFull_Client.pdb
