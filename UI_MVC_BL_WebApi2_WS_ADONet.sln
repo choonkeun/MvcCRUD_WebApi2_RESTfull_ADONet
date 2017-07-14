@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BL_WebApi2_WS_ADONet", "BL_WebApi2_WS_ADONet\BL_WebApi2_WS_ADONet.csproj", "{B969EA04-43D9-45E9-9F56-35162BB0A57D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UI_MVC5_Client", "UI_MVC5_Client\UI_MVC5_Client.csproj", "{B18DBFE1-B308-4D9D-B80C-382C7EB5995B}"
+	ProjectSection(ProjectDependencies) = postProject
+		{B969EA04-43D9-45E9-9F56-35162BB0A57D} = {B969EA04-43D9-45E9-9F56-35162BB0A57D}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B969EA04-43D9-45E9-9F56-35162BB0A57D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B969EA04-43D9-45E9-9F56-35162BB0A57D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B969EA04-43D9-45E9-9F56-35162BB0A57D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B969EA04-43D9-45E9-9F56-35162BB0A57D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B18DBFE1-B308-4D9D-B80C-382C7EB5995B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B18DBFE1-B308-4D9D-B80C-382C7EB5995B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B18DBFE1-B308-4D9D-B80C-382C7EB5995B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B18DBFE1-B308-4D9D-B80C-382C7EB5995B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
